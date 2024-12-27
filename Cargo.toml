@@ -1,6 +1,8 @@
 [package]
-name = "rust_json_parser"
+name = "simple-json"
 version = "0.1.0"
 edition = "2021"
+description = "A simple json parsing library written in Rust."
+license = "MIT"
 
 [dependencies]
