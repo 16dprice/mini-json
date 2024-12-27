@@ -1,0 +1,17 @@
+{
+  "false_key": false,
+  "another_object_key": {
+    "nested": {
+      "super_nested": 123
+    }
+  },
+  "array_key": [
+    1,
+    "abcd",
+    {
+      "key": "value"
+    },
+    true,
+    false
+  ]
+}
