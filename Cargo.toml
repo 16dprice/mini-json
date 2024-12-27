@@ -1,5 +1,5 @@
 [package]
-name = "simple-json"
+name = "mini-json"
 version = "0.1.0"
 edition = "2021"
 description = "A simple json parsing library written in Rust."
